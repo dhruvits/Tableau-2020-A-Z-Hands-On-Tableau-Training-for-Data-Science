@@ -1,7 +1,8 @@
 # Tableau-2020-A-Z-Hands-On-Tableau-Training-for-Data-Science
 
-   Markup:  * Install Tableau Desktop 2020
-            * Connect Tableau to various Datasets: Excel and CSV files
+   # Markup:  
+   * Install Tableau Desktop 2020
+   * Connect Tableau to various Datasets: Excel and CSV files
     Create Barcharts
     Create Area Charts
     Create Maps
